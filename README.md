@@ -1,4 +1,4 @@
-# advmenu_parser
+# Advance Menu Parser
 Parses the advmenu.rc file and prints statistics about it
 
 Example usage:
